@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648532707 source:c:\c++\today.cpp\main.cpp
+	<bits/stdc++.h>
+
+1648533009 source:c:\c++\today.cpp\vector_operations.cpp
+	<bits/stdc++.h>
+
