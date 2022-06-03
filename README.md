@@ -1,2 +1,3 @@
 # Competitive_programming
-An archive for the problems I've solved
+An archive for the reference problems
+
